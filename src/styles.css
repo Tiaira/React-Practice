@@ -1,0 +1,45 @@
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500px;
+  font-size: 35px;
+  line-height: 43px;
+  padding-top: 35px;
+}
+.body-two {
+  background-color: #ebe8e8;
+  border: 1px solid white;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  width: 1200px;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding-right: 10;
+  height: 4027px;
+  box-sizing: border-box;
+}
+
+#login {
+  position: top;
+  text-align: right;
+}
+.subject {
+  width: 1100px;
+}
+
+#article-summary {
+  height: 120px;
+  border: grey;
+}
+
+#subject {
+  width: 1100px;
+  height: 600px;
+  border: grey;
+}
+
+button {
+  background-color: rgb(11, 2, 63);
+  color: white;
+  text-align: right;
+}
