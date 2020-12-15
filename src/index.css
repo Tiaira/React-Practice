@@ -1,0 +1,26 @@
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500px;
+  font-size: 35px;
+  line-height: 43px;
+  padding-top: 35px;
+}
+
+.JaneDoe {
+  text-align: right;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  width: 1200px;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding-right: 10;
+  height: 4027px;
+  box-sizing: border-box;
+}
+
+.body-two {
+  background-color: #ebe8e8;
+  border: 1px solid white;
+}
